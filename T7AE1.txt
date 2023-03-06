@@ -39,5 +39,11 @@ D: 255.255.255.0
 Ejercicio 16.
 D: dirección = 192.168.85.128, broadcast 192.168.85.191
 
+Ejercicio 17.
+A:  62 subredes con 2 hosts
 
+Ejercicio 18.
+B:  128 subredes y 512 hosts
 
+Ejercicio 20.
+D: 255.255.254.0
