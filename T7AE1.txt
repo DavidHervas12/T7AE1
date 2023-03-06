@@ -1,12 +1,22 @@
 Ejercicio1.
-c
+C: 255.255.252.0
+
 Ejercicio2.
-c
+C: 255.255.255.240
+
 Ejercicio3.
-b
+B: 255.255.240.0
+
 Ejercicio5.
-b,d
+B: 172.16.65.33
+D: 172.16.63.51
+
 Ejercicio6.
-a,c
-Ejercicio7.
-b
+A: 10011001.01111000.01101101.11111000
+C: 10111001.11001000.00110111.01001100
+
+Ejercicio8.
+B: 128 subredes con 510 hosts
+
+Ejercicio8-2.
+E: Ninguna de las respuestas es correcta.
