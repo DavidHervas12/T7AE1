@@ -2,3 +2,5 @@ Ejercicio1.
 c
 Ejercicio2.
 c
+Ejercicio3.
+b
