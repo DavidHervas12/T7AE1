@@ -8,3 +8,5 @@ Ejercicio5.
 b,d
 Ejercicio6.
 a,c
+Ejercicio7.
+b
