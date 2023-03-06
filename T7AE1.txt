@@ -24,3 +24,7 @@ E: Ninguna de las respuestas es correcta.
 Ejercicio 10.
 C: 255.240.0.0
 
+Ejercicio 12.
+D: dirección = 172.18.64.0, broadcast 172.18.71.255
+
+
