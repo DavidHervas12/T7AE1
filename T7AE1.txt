@@ -4,5 +4,7 @@ Ejercicio2.
 c
 Ejercicio3.
 b
-Ejercicio4.
+Ejercicio5.
 b,d
+Ejercicio6.
+a,c
